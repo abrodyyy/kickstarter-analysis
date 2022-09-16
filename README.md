@@ -11,7 +11,7 @@ Looking at outcomes based on launch date, we see that the number of successful c
 
 ### Analysis of Outcomes Based on Goals
 Looking at outcomes based on goals, we do not see any sort of trend in the graph. While there is an increase in successful outcomes at lower goal amounts, we also see that number increase at several larger goal amounts. 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png
+/assets/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 The dates in the original data set was not in readable format. We were able to overcome this by utilizing a formula to convert the timestamp into a normal date format. Furthermore, we extracted the months and years from the launch date for further analysis. 
