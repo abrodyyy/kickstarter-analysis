@@ -7,11 +7,12 @@ Performing analysis on Kickstarter data to determine if there is a correlation b
 
 ### Analysis of Outcomes Based on Launch Date
 Looking at outcomes based on launch date, we see that the number of successful campaigns increase from January to February before decreasing again going into March. The number then begins to increase again until peaking in May, and ultimately begins to decrease at a steady rate until September. We then see a slight increase moving into October until it again decreases throughout the remaining months of the year. 
-![Theater_Outcomes_vs_Launch](path/to/Outcomes_vs_Goals.png
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111623064/190669865-31389a72-ea13-4d14-a3d6-8235c479319b.png)
 
 ### Analysis of Outcomes Based on Goals
 Looking at outcomes based on goals, we do not see any sort of trend in the graph. While there is an increase in successful outcomes at lower goal amounts, we also see that number increase at several larger goal amounts. 
-/assets/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111623064/190669787-7ee6b58c-c064-40c2-8058-9ece32019135.png)
+
 
 ### Challenges and Difficulties Encountered
 The dates in the original data set was not in readable format. We were able to overcome this by utilizing a formula to convert the timestamp into a normal date format. Furthermore, we extracted the months and years from the launch date for further analysis. 
